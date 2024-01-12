@@ -1,0 +1,6 @@
+@article{REPO362,
+    author = "Karimijafarbigloo, Sanaz and Azad, Reza and Kazerouni, Amirhossein and Velichko, Yury and Bagci, Ulas and Merhof, Dorit",
+    journal = "IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+    title = "{Self-supervised Semantic Segmentation: Consistency over Transformation}",
+    year = "2023"
+}
